@@ -5,17 +5,13 @@ Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
 
 ## List Pengerjaan
 1. Apa tantangan paling sulit saat membuat test ini?
-  ```sh
-  Dalam Pengerjaan Frontend masih meraba-raba dan belum terlalu paham bagaimana proses menggunakan tampilan di laravel dan cara yang cepat untuk membuat tampilan dengan framework css seperti tailwind atau bootstrap yang di integrasikan dengan laravel.
-  ```
+  - Dalam Pengerjaan Frontend masih meraba-raba dan belum terlalu paham bagaimana proses menggunakan tampilan di laravel dan cara yang cepat untuk membuat tampilan dengan framework css seperti tailwind atau bootstrap yang di integrasikan dengan laravel.
+
 2. Jika Anda diberi waktu tambahan 2 jam, fitur apa yang akan Anda tambahkan?
-   ```sh
-   menyelesaikan tampilan web lalu mendeploy nya ke cloud, mungkin tidak dalam waktu 2 jam, bisa saja lebih tergantung kondisi dan masalah yang di hadapi ketika melakukan development dan deployment.
-   ```
+  - menyelesaikan tampilan web lalu mendeploy nya ke cloud, mungkin tidak dalam waktu 2 jam, bisa saja lebih tergantung kondisi dan masalah yang di hadapi ketika melakukan development dan deployment.
+
 3. Apa kelebihan struktur kode Anda dibanding copy paste dari AI?
-   ```sh
-   Beberapa fungsi saya ambil dari AI tapi saya ubah dan sesuaikan dengan database dan berbagai variable yang sudah saya buat, banyak code yang saya ambil dari AI digunakan hanya untuk referensi dan mempercepat untuk membaca dokumentasi untuk mencari fungsi dasar dari php dan laravel.
-   ```
+  - Beberapa fungsi saya ambil dari AI tapi saya ubah dan sesuaikan dengan database dan berbagai variable yang sudah saya buat, banyak code yang saya ambil dari AI digunakan hanya untuk referensi dan mempercepat untuk membaca dokumentasi untuk mencari fungsi dasar dari php dan laravel.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
