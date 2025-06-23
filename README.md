@@ -4,15 +4,20 @@
 Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
 
 ## List Pengerjaan
-1. Apa tantangan paling sulit saat membuat test ini?
-  - Dalam Pengerjaan Frontend masih meraba-raba dan belum terlalu paham bagaimana proses menggunakan tampilan di laravel dan cara yang cepat untuk membuat tampilan dengan framework css seperti tailwind atau bootstrap yang di integrasikan dengan laravel.
+1. Apa tantangan paling sulit saat mengerjakan tes ini?
+- Tantangan terbesar saya terletak pada proses pengembangan *frontend*, terutama dalam memahami integrasi tampilan menggunakan Laravel. Saya masih mempelajari cara paling efisien untuk membangun antarmuka dengan framework CSS seperti Tailwind atau Bootstrap dalam ekosistem Laravel. Hal ini membuat saya perlu bereksperimen cukup banyak untuk menemukan pendekatan terbaik.
 
-2. Jika Anda diberi waktu tambahan 2 jam, fitur apa yang akan Anda tambahkan?
-  - menyelesaikan tampilan web lalu mendeploy nya ke cloud, mungkin tidak dalam waktu 2 jam, bisa saja lebih tergantung kondisi dan masalah yang di hadapi ketika melakukan development dan deployment.
+2. Jika diberikan waktu tambahan 2 jam, fitur apa yang akan Anda tambahkan?
+- Dengan waktu tambahan, saya akan fokus pada:
+  - Menyelesaikan dan Menyempurnakan tampilan antarmuka agar lebih konsisten serta user-friendly.
+  - Menambahkan fitur penjadwalan yang lebih lengkap dengan pengaturan jam dan menit.
+  - Jika memungkinkan, saya juga akan mengatur proses *deployment* ke cloud. Namun saya menyadari bahwa tahap ini bisa membutuhkan waktu lebih dari dua jam, tergantung kompleksitas dan kendala teknis yang muncul.
 
-3. Apa kelebihan struktur kode Anda dibanding copy paste dari AI?
-  - Beberapa fungsi saya ambil dari AI tapi saya ubah dan sesuaikan dengan database dan berbagai variable yang sudah saya buat, banyak code yang saya ambil dari AI digunakan hanya untuk referensi dan mempercepat untuk membaca dokumentasi untuk mencari fungsi dasar dari php dan laravel.
+3. Apa kelebihan struktur kode Anda dibandingkan dengan hasil dari copy-paste AI?  
+- Sebagian referensi fungsi saya ambil dari AI untuk mempercepat proses dan memahami dokumentasi. Namun, saya selalu menyesuaikan kode tersebut dengan struktur database dan variabel yang telah saya buat sebelumnya. Dengan begitu, saya bisa memastikan bahwa kode tetap berjalan dan tidak ada error.
+- Saya juga menyadari bahwa pengalaman saya dengan Laravel masih dalam tahap awal, dan saya terus berusaha untuk memperdalam pemahaman tentang struktur proyek Laravel dan Best practices dalam framework ini. Pendekatan ini membantu saya belajar secara aktif, bukan hanya menyalin, tetapi juga memahami konteks dari kode yang akan saya buat nantinya.
 
+## 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
