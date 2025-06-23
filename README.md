@@ -3,7 +3,7 @@
 ## Tentang Project
 Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
 
-## List Pengerjaan
+## List Pertanyaan
 1. Apa tantangan paling sulit saat mengerjakan tes ini?
 - Tantangan terbesar saya terletak pada *frontend*, terutama dalam integrasi tampilan menggunakan Laravel. Saya masih mempelajari cara paling efisien untuk membuat antarmuka dengan framework CSS seperti Tailwind atau Bootstrap yang di integrasikan dengan Laravel. Hal ini membuat saya perlu bereksperimen cukup banyak untuk menemukan pendekatan terbaik dan sampai akhir waktu test ini saya masih belum menemukan caranya untuk melakukan load terhadap tailwind atau boostrap.
 
@@ -16,6 +16,16 @@ Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
 3. Apa kelebihan struktur kode Anda dibandingkan dengan hasil dari copy-paste AI?  
 - Sebagian referensi fungsi saya ambil dari AI untuk mempercepat proses dan memahami dokumentasi. Namun, saya selalu menyesuaikan kode tersebut dengan struktur database dan variabel yang telah saya buat sebelumnya. Dengan begitu, saya bisa memastikan bahwa kode tetap berjalan dan tidak ada error.
 - Saya juga menyadari bahwa pengalaman saya dengan Laravel masih dalam tahap awal, dan saya terus berusaha untuk memperdalam pemahaman tentang struktur proyek Laravel dan Best practices dalam framework ini. Pendekatan ini membantu saya belajar secara aktif, bukan hanya menyalin, tetapi juga memahami konteks dari kode yang akan saya buat nantinya.
+
+## List Test yang Selesai
+[✓] API Task
+[✓] Autentikasi
+[✓] Sketsa UI Figma 
+[✓] Frontend (ReactJS)
+[✗] Design Frontend dengan CSS Tailwind
+[✓] NodeJS CLI Script
+[✓] Github Repo
+[✓] Send Email result
 
 ## 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
