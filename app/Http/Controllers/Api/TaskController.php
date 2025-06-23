@@ -38,10 +38,11 @@ class TaskController extends Controller
             'prioritas' => 'required|in:rendah,sedang,tinggi',
         ]);    
         
+        $deadlineDate = \Carbon\Carbon::createFromFormat('d/m/Y', $request->tanggal_deadline)->format('Y-m-d');
         $task = Auth::user()->tasks()->create([
             'judul' => Auth::user()->name . ' - ' . $request->judul,
             'deskripsi' => $request->deskripsi,
-            'tanggal_deadline' => $request->tanggal_deadline,
+            'tanggal_deadline' => $deadlineDate,
             'prioritas' => $request->prioritas,
             'status' => 'berjalan',
         ]);
