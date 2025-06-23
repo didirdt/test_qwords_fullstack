@@ -5,7 +5,7 @@ Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
 
 ## List Pengerjaan
 1. Apa tantangan paling sulit saat mengerjakan tes ini?
-- Tantangan terbesar saya terletak pada proses pengembangan *frontend*, terutama dalam memahami integrasi tampilan menggunakan Laravel. Saya masih mempelajari cara paling efisien untuk membangun antarmuka dengan framework CSS seperti Tailwind atau Bootstrap dalam ekosistem Laravel. Hal ini membuat saya perlu bereksperimen cukup banyak untuk menemukan pendekatan terbaik.
+- Tantangan terbesar saya terletak pada *frontend*, terutama dalam integrasi tampilan menggunakan Laravel. Saya masih mempelajari cara paling efisien untuk membuat antarmuka dengan framework CSS seperti Tailwind atau Bootstrap yang di integrasikan dengan Laravel. Hal ini membuat saya perlu bereksperimen cukup banyak untuk menemukan pendekatan terbaik dan sampai akhir waktu test ini saya masih belum menemukan caranya untuk melakukan load terhadap tailwind atau boostrap.
 
 2. Jika diberikan waktu tambahan 2 jam, fitur apa yang akan Anda tambahkan?
 - Dengan waktu tambahan, saya akan fokus pada:
