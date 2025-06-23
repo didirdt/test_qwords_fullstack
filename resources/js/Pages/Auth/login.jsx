@@ -30,6 +30,7 @@ export default function Login({ setToken }) {
                     <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
                 </div>
                 <button type="submit">Login</button>
+                <a href="/register" type="submit">Register</a>
             </form>
         </div>
     );

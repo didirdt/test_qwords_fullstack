@@ -15,17 +15,19 @@ use Inertia\Inertia;
 */
 
 Route::get('/', function () {
-    return Inertia::render('app');
+    return Inertia::render('Auth/login');
 });
 
-Route::get('/login', function () {
-    return Inertia::render('login');
+Route::get('/register', function () {
+    return Inertia::render('Auth/register');
 });
 
-Route::get('/tasks', function () {
-    return Inertia::render('Task/index');
-});
+Route::middleware('auth:sanctum')->group(function () {
+    Route::get('/tasks', function () {
+        return Inertia::render('Task/index');
+    });
 
-Route::get('/tasks/create', function () {
-    return Inertia::render('Task/create');
+    Route::get('/tasks/create', function () {
+        return Inertia::render('Task/create');
+    });
 });

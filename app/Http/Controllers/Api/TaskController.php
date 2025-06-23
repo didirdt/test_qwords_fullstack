@@ -30,14 +30,7 @@ class TaskController extends Controller
     }
 
     public function store(Request $request)
-    {
-        $request->validate([
-            'judul' => 'required|string',
-            'deskripsi' => 'required|string',
-            'tanggal_deadline' => 'required|date_format:d/m/Y',
-            'prioritas' => 'required|in:rendah,sedang,tinggi',
-        ]);    
-        
+    {   
         $deadlineDate = \Carbon\Carbon::createFromFormat('d/m/Y', $request->tanggal_deadline)->format('Y-m-d');
         $task = Auth::user()->tasks()->create([
             'judul' => Auth::user()->name . ' - ' . $request->judul,
