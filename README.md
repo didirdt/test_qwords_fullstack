@@ -1,3 +1,22 @@
+<p align="center"><a href="https://qwords.co.id/" target="_blank"><img src="https://qwords.co.id/wp-content/uploads/2025/03/Screenshot_2025-03-12_151232-removebg-preview.png" width="400" alt="Logo"></a></p>
+
+## Tentang Project
+Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
+
+## List Pengerjaan
+1. Apa tantangan paling sulit saat membuat test ini?
+  ```sh
+  Dalam Pengerjaan Frontend masih meraba-raba dan belum terlalu paham bagaimana proses menggunakan tampilan di laravel dan cara yang cepat untuk membuat tampilan dengan framework css seperti tailwind atau bootstrap yang di integrasikan dengan laravel.
+  ```
+2. Jika Anda diberi waktu tambahan 2 jam, fitur apa yang akan Anda tambahkan?
+   ```sh
+   menyelesaikan tampilan web lalu mendeploy nya ke cloud, mungkin tidak dalam waktu 2 jam, bisa saja lebih tergantung kondisi dan masalah yang di hadapi ketika melakukan development dan deployment.
+   ```
+3. Apa kelebihan struktur kode Anda dibanding copy paste dari AI?
+   ```sh
+   Beberapa fungsi saya ambil dari AI tapi saya ubah dan sesuaikan dengan database dan berbagai variable yang sudah saya buat, banyak code yang saya ambil dari AI digunakan hanya untuk referensi dan mempercepat untuk membaca dokumentasi untuk mencari fungsi dasar dari php dan laravel.
+   ```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -6,34 +25,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
+### Premium Partners Laravel
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -56,10 +48,6 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
