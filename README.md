@@ -18,14 +18,14 @@ Project ini di buat untuk keperluan Test Fullstack Developer PT.Qwords
 - Saya juga menyadari bahwa pengalaman saya dengan Laravel masih dalam tahap awal, dan saya terus berusaha untuk memperdalam pemahaman tentang struktur proyek Laravel dan Best practices dalam framework ini. Pendekatan ini membantu saya belajar secara aktif, bukan hanya menyalin, tetapi juga memahami konteks dari kode yang akan saya buat nantinya.
 
 ## List Test yang Selesai
-[✓] API Task
-[✓] Autentikasi
-[✓] Sketsa UI Figma 
-[✓] Frontend (ReactJS)
-[✗] Design Frontend dengan CSS Tailwind
-[✓] NodeJS CLI Script
-[✓] Github Repo
-[✓] Send Email result
+- [✓] API Task
+- [✓] Autentikasi
+- [✓] Sketsa UI Figma 
+- [✓] Frontend (ReactJS)
+- [✗] Design Frontend dengan CSS Tailwind
+- [✓] NodeJS CLI Script
+- [✓] Github Repo
+- [✓] Send Email result
 
 ## 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
